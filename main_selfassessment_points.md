@@ -7,6 +7,11 @@
   - Jaime Forero-Romero, General coordination, Los Andes University, Bogotá-Colombia.
 
 * Important Dates.
-  - 
-  - July 2015. Andean ROAD agreement signed (Bogotá-Colombia)
-  - 
+  - November 2014. Andean ROAD proposal approved.
+  - December 2014. Andean School for Astronomy and Astrophysics (Quito-Ecuador).
+  - June 2015. Andean Cosmology School (Bogotá-Colombia).
+  - July 2015. Second Workshop Astronomía en los Andes (Bogotá-Colombia)
+  - July 2015. Andean ROAD agreement signed (Bogotá-Colombia).
+  - October 2016. OAD mini-workshop at LARIM XV (Cartagena-Colombia).
+  - November 2018. Third Workshop Astronomía en los Andes, (Lima-Peru).
+  
