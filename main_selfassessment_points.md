@@ -13,5 +13,9 @@
   - July 2015. Second Workshop Astronomía en los Andes (Bogotá-Colombia)
   - July 2015. Andean ROAD agreement signed (Bogotá-Colombia).
   - October 2016. OAD mini-workshop at LARIM XV (Cartagena-Colombia).
+  
+* Future Events
   - November 2018. Third Workshop Astronomía en los Andes, (Lima-Peru).
+  - 2019. OAD mini-workshop at LARIM XVI (Antofagasta-Chile).
+  - 2020. Fourtho Workshop Astronomía en los Andes, (Bolivia, TBC).
   
