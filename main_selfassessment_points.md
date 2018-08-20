@@ -16,6 +16,6 @@
   
 * Future Events
   - November 2018. Third Workshop Astronomía en los Andes, (Lima-Peru).
-  - 2019. OAD mini-workshop at LARIM XVI (Antofagasta-Chile).
-  - 2020. Fourtho Workshop Astronomía en los Andes, (Bolivia, TBC).
+  - November 2019. OAD mini-workshop at LARIM XVI (Antofagasta-Chile).
+  - November 2020. Fourtho Workshop Astronomía en los Andes, (Bolivia, TBC).
   
