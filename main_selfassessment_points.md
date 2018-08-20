@@ -1,12 +1,13 @@
 # Managing structure
 
 * Coordination divided among four people in four institutions.
-  - German Chaparro. TF1 coordination, ECCI University, Bogotá-Colombia.
-  - Angela Perez, TF2 coordination, Parque Explora, Medellín-Colombia.
-  - Farid Char, TF3 coordination, SOCHIAS, Antofagasta-Chile. (Mid 2015 to early 2018)
-  - Jaime Forero-Romero, General coordination, Los Andes University, Bogotá-Colombia.
+  - German Chaparro. TF1 coordination, ECCI University, Bogotá-Colombia. (Mid 2015 to present.)
+  - Angela Perez, TF2 coordination, Parque Explora, Medellín-Colombia. (Mid 2015 to present)
+  - Farid Char, TF3 coordination, SOCHIAS, Antofagasta-Chile. (Mid 2015 to early 2018.)
+  - Jaime Forero-Romero, General coordination, Los Andes University, Bogotá-Colombia. (Mid 2015 to present.)
 
 # Important Dates (Past Events)
+  - July 2013. First Workshop Astronomía en los Andes (Bogotá-Colombia).
   - November 2014. Andean ROAD proposal approved.
   - December 2014. Andean School for Astronomy and Astrophysics (Quito-Ecuador).
   - June 2015. Andean Cosmology School (Bogotá-Colombia).
