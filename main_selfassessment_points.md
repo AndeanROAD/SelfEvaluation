@@ -23,15 +23,17 @@
   - July 2020. End of first phase for the Andean ROAD. 
 
 
-# Achievements
+# Main Achievements
 
-* For the first time in the last two decades, carry out projects in coordination with multiple countries in the Andean Region.
+* For the first time ever, we have carried out projects in collaboration with multiple countries in the Andean Region. 
 
 * Develop institutional awareness about Astrononomy for Development.
 
-# Challenges
+# Main Challenges
 
 * Most of the events have been coordinated and held in Colombia.
   Suggested solution: move the coordination center to a country different from Colombia.
   
 * Only a minority of the projects suggested in the original programme have advanced.
+
+* We do not have a framework to measure impact for our projects.
